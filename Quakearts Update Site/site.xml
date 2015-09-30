@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.quakearts.codegenerators.feature_1.0.0.201509301659.jar" id="com.quakearts.codegenerators.feature" version="1.0.0.201509301659">
+      <category name="com.quakearts.codegenerators"/>
+   </feature>
+   <feature url="features/com.quakearts.plugins.taglibeditor.feature_1.0.0.201509301659.jar" id="com.quakearts.plugins.taglibeditor.feature" version="1.0.0.201509301659">
+      <category name="com.quakearts.plugins.editors"/>
+   </feature>
+   <feature url="features/com.quakearts.webtools.jboss61.metadataproviders.feature_1.0.0.201509301659.jar" id="com.quakearts.webtools.jboss61.metadataproviders.feature" version="1.0.0.201509301659">
+      <category name="com.quakearts.webtools.metadataproviders"/>
+   </feature>
+   <category-def name="com.quakearts.plugins.editors" label="Editors"/>
+   <category-def name="com.quakearts.webtools.metadataproviders" label="Meta data providers"/>
+   <category-def name="com.quakearts.codegenerators" label="Code Generator Wizards"/>
+</site>
